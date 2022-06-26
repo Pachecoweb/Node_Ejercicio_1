@@ -15,10 +15,10 @@
     "license": "ISC",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Pachecoweb/Node_Ejercicios.git"
+        "url": "git+https://github.com/Pachecoweb/Node_Ejercicio_1.git"
     },
     "bugs": {
-        "url": "https://github.com/Pachecoweb/Node_Ejercicios/issues"
+        "url": "https://github.com/Pachecoweb/Node_Ejercicio_1/issues"
     },
-    "homepage": "https://github.com/Pachecoweb/Node_Ejercicios#readme"
+    "homepage": "https://github.com/Pachecoweb/Node_Ejercicio_1#readme"
 }
